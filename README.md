@@ -1,1 +1,0 @@
-# softserve_project
